@@ -1,6 +1,6 @@
 # Convex optimization about image processing  
 #### OSS Builds Status
-[![Build status]()
+[![Build status](https://github.com/chaidisheng/Convex_Optimization)
 ### Announcements
 #### Release 0.1
 
