@@ -1,3 +1,9 @@
-# Convex_Optimization
-## dd
-## cc
+# convex optimization about image processing
+## 
+## 
+##
+##
+##
+##
+##
+##
