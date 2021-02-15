@@ -1,11 +1,11 @@
 # Convex optimization about image processing  
 #### OSS Builds Status
 [![Build status](https://github.com/chaidisheng/Convex_Optimization)
-
-Please connect on me before introduce my code!  
-My emial is chaidisheng@stumail.ysu.edu.cn.
 ### Announcements
 #### Release 0.1
+
+Please connect on me before introduce my code!  
+My emial is chaidisheng@stumail.ysu.edu.cn.  
 
 ## Alternating Direction Method of Multipliers(ADMM)
 
