@@ -7,7 +7,7 @@
 Please connect on me before introduce my code!  
 My emial is chaidisheng@stumail.ysu.edu.cn.  
 
-## -Alternating Direction Method of Multipliers(ADMM)
+## ***Alternating Direction Method of Multipliers(ADMM)***
 
 ## Linear ADMM
 
