@@ -21,7 +21,9 @@ My emial is chaidisheng@stumail.ysu.edu.cn.
 
 ## Approximate Message Passing Method
 
->
+>BOYD S, PARIKH N, CHU E, et al. Distributed optimization and statistical learning via the
+alternating direction method of multipliers[J]. Foundations and Trends in Machine Learning, 2010,
+3(1):1-122.
 >
 >
 >
