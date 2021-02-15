@@ -13,7 +13,7 @@ My emial is <chaidisheng@stumail.ysu.edu.cn>.
 
 ## ***Proximal Gradient Method***
 
-## ---Douglas−Rachford Splitting Method---
+## ___Douglas−Rachford Splitting Method___
 
 ## ***Pock-Chambolle Method(Primal Dual Method)***
 
