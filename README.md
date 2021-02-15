@@ -37,8 +37,7 @@ method for semiconvex splittings[J]. SIAM J. Imaging Sci., 2015, 8(2):827-857.
 >[7]CHAMBOLLE A, POCK T. A first-order primal-dual algorithm for convex problems 
 with applications to imaging[J]. J. Math. Imaging Vis., 2011, 40(1):120-145.
 >[8]CHAMBOLLE A, EHRHARDT M J, RICHTÁRIK P, et al. Stochastic primal-dual hybrid gradient
-algorithm with arbitrary sampling and imaging applications[J]. SIAM J. Optim., 2018, 28(4):2783-
-2808.
+algorithm with arbitrary sampling and imaging applications[J]. SIAM J. Optim., 2018, 28(4):2783-2808.
 >[9]THEMELIS A, PATRINOS P. Douglas-rachford splitting and ADMM for nonconvex optimization:
 Tight convergence results[J]. SIAM J. Optim., 2020, 30(1):149-181.
 >[10]XU Z, FIGUEIREDO M A T, YUAN X, et al. Adaptive relaxed ADMM: convergence theory and
